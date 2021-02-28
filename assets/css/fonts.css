@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "Alexandria FLF";
+    src: url("../fonts/Alexandria FLF.eot");
+    src: local("☺"), url("../fonts/Alexandria FLF.woff") format("woff"), url("../fonts/Alexandria FLF.ttf") format("truetype"), url("../fonts/Alexandria FLF.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Alexandria FLF";
+    src: url("../fonts/Alexandria FLF Bold.eot");
+    src: local("☺"), url("../fonts/Alexandria FLF Bold.woff") format("woff"), url("../fonts/Alexandria FLF Bold.ttf") format("truetype"), url("../fonts/Alexandria FLF Bold.svg") format("svg");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Arial";
+    src: url("../fonts/Arial.eot");
+    src: local("☺"), url("../fonts/Arial.woff") format("woff"), url("../fonts/Arial.ttf") format("truetype"), url("../fonts/Arial.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Calibri";
+    src: url("../fonts/Calibri.eot");
+    src: local("☺"), url("../fonts/Calibri.woff") format("woff"), url("../fonts/Calibri.ttf") format("truetype"), url("../fonts/Calibri.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Chunk Five";
+    src: url("../fonts/Chunk Five.eot");
+    src: local("☺"), url("../fonts/Chunk Five.woff") format("woff"), url("../fonts/Chunk Five.ttf") format("truetype"), url("../fonts/Chunk Five.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Colaborate";
+    src: url("../fonts/Colaborate Thin.eot");
+    src: local("☺"), url("../fonts/Colaborate Thin.woff") format("woff"), url("../fonts/Colaborate Thin.ttf") format("truetype"), url("../fonts/Colaborate Thin.svg") format("svg");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Colaborate";
+    src: url("../fonts/Colaborate Light.eot");
+    src: local("☺"), url("../fonts/Colaborate Light.woff") format("woff"), url("../fonts/Colaborate Light.ttf") format("truetype"), url("../fonts/Colaborate Light.svg") format("svg");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Colaborate";
+    src: url("../fonts/Colaborate Regular.eot");
+    src: local("☺"), url("../fonts/Colaborate Regular.woff") format("woff"), url("../fonts/Colaborate Regular.ttf") format("truetype"), url("../fonts/Colaborate Regular.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Colaborate";
+    src: url("../fonts/Colaborate Medium.eot");
+    src: local("☺"), url("../fonts/Colaborate Medium.woff") format("woff"), url("fonts/../Colaborate Medium.ttf") format("truetype"), url("../fonts/Colaborate Medium.svg") format("svg");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Contra";
+    src: url("../fonts/Contra.eot");
+    src: local("☺"), url("../fonts/Contra.woff") format("woff"), url("../fonts/Contra.ttf") format("truetype"), url("../fonts/Contra.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Contra";
+    src: url("../fonts/Contra Italic.eot");
+    src: local("☺"), url("../fonts/Contra Italic.woff") format("woff"), url("../fonts/Contra Italic.ttf") format("truetype"), url("../fonts/Contra Italic.svg") format("svg");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Flare Light Gothic";
+    src: url("../fonts/Flare Light Gothic.eot");
+    src: local("☺"), url("../fonts/Flare Light Gothic.woff") format("woff"), url("../fonts/Flare Light Gothic.ttf") format("truetype"), url("../fonts/Flare Light Gothic.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Franklin Gothic Book";
+    src: url("../fonts/Franklin Gothic Book.eot");
+    src: local("☺"), url("../fonts/Franklin Gothic Book.woff") format("woff"), url("../fonts/Franklin Gothic Book.ttf") format("truetype"), url("../fonts/Franklin Gothic Book.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Freeport Plain";
+    src: url("../fonts/Freeport Plain.eot");
+    src: local("☺"), url("../fonts/Freeport Plain.woff") format("woff"), url("../fonts/Freeport Plain.ttf") format("truetype"), url("../fonts/Freeport Plain.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Helvetica Neue";
+    src: url("../fonts/Helvetica Neue Medium.eot");
+    src: local("☺"), url("../fonts/Helvetica Neue Medium.woff") format("woff"), url("../fonts/Helvetica Neue Medium.ttf") format("truetype"), url("../fonts/Helvetica Neue Medium.svg") format("svg");
+    font-weight: 500;
+    font-style: normal;
+}
