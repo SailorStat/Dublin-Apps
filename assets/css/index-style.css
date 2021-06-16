@@ -1015,7 +1015,7 @@ li.passage__item:before {
     left: 0;
     z-index: 1;
 
-    content: "\2540";
+    content: "+";
     font-size: 9px;
     text-align: center;
     width: 15px;
